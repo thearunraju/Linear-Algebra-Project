@@ -1,4 +1,4 @@
-# 📊 Student Performance Analysis using Linear Algebra & Statistics
+# 📊 Dimensionality Reduction and Predictive Modeling: Student Success Factors
 
 This project explores how academic and lifestyle factors influence **student performance (CGPA)** using **Exploratory Data Analysis (EDA)**, **statistical tests**, and **linear algebra techniques** like **Principal Component Analysis (PCA)** and **Linear Regression**.
 
